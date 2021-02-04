@@ -1,0 +1,3 @@
+[submodule "bandit_tools"]
+	path = bandit_tools
+	url = https://github.com/SebastianPilarski/bandit_tools
