@@ -1,3 +1,6 @@
 [submodule "bandit_tools"]
 	path = bandit_tools
 	url = https://github.com/SebastianPilarski/bandit_tools
+[submodule "optimal_Bernoulli_bandit"]
+	path = optimal_Bernoulli_bandit
+	url = https://github.com/SebastianPilarski/optimal_Bernoulli_bandit
