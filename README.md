@@ -2,7 +2,7 @@
 This repository contains links to data repositories for the provided list of Bernoulli bandit papers below and bandit tools used to generate the data.
 
 ## **List of Papers (Data Repositories)**
-- [Optimal Policy for Bernoulli Bandits: Computation and Algorithm Gauge](optimal_bernoulli_bandit)
+- [Optimal Policy for Bernoulli Bandits: Computation and Algorithm Gauge](https://github.com/sebastianpilarski/optimal_bernoulli_bandit)
   - Sebastian Pilarski, Slawomir Pilarski, Daniel Varro
 
 ## **[Bandit Tools](bandit_tools)**
