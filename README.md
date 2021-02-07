@@ -5,7 +5,7 @@ This repository contains links to data repositories for the provided list of Ber
 - [Optimal Policy for Bernoulli Bandits: Computation and Algorithm Gauge](https://github.com/sebastianpilarski/optimal_bernoulli_bandit)
   - Sebastian Pilarski, Slawomir Pilarski, Daniel Varro
 
-## **[Bandit Tools](bandit_tools)**
+## **[Bandit Tools](https://github.com/SebastianPilarski/bandit_tools/)**
 This repository contains the following bandit tools:
 - C++ implementation of k-arm optimal policy for Bernoulli bandits and Python API for running from python
 - UCBT_ob algorithm implemented in Python
